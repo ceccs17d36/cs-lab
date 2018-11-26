@@ -28,19 +28,19 @@ void enqueueFront()
 {
     int data;
     if (front == 0) 
-	{
+    {
         printf("Failed: No space at front\n");
     }
-	else 
-	{
+    else 
+    {
         printf("Enter data to be inserted : ");
         scanf("%d", &data);
         if (front == -1) 
-		{
+	{
             front = rear = 0;
         }
-		else 
-		{
+	else 
+	{
             front--;
         }
         queue[front] = data;
@@ -49,18 +49,18 @@ void enqueueFront()
 void dequeueRear() 
 {
     if (rear == -1) 
-	{
+    {
         printf("Failed: Empty queue\n");
     }
-	else 
-	{
+    else 
+    {
         printf("Deleted element : %d\n", queue[rear]);
         if (front == rear) 
-		{
+	{
             front = rear = -1;
         }
-		else 
-		{
+	else 
+	{
             rear--;
         }
     }
