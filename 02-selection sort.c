@@ -1,4 +1,7 @@
-#include <stdio.h>
+//N.S ATHUL ANAND
+//S3
+//36
+#include <stdio.h> 
 
 int main() 
 {
