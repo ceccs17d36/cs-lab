@@ -1,3 +1,7 @@
+//N.S ATHUL ANAND
+//S3D
+//36
+
 #include <stdio.h>
 
 void swap(int *a, int *b) {
