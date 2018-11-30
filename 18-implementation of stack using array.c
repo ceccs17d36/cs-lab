@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 18-implementation of stack using array
 #include<stdio.h>
 
 int stack[100],choice,n=100,top,x,i;
