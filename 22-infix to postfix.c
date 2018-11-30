@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 22-infix to postfix
 #include <stdio.h>
 
 int instackPriority(char symbol) 
