@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 29-queue using linked list
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -60,7 +64,7 @@ int main() {
 	HEADER->data = 0;
 	HEADER->next = NULL;
 	do {
-		printf("\n\tQueue using array\n1.Enqueu\n2.Dequeue\n3.Display\n4.Exit\nEnter your choice : ");
+		printf("\n\tQueue using linked list\n1.Enqueu\n2.Dequeue\n3.Display\n4.Exit\nEnter your choice : ");
 		scanf(" %c", &choice);
 		switch(choice) {
 			case '1':
