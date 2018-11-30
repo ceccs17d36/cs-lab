@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 26-queue using array
 #include <stdio.h>
 
 int queue[100], n=100, front=-1, rear=-1;
