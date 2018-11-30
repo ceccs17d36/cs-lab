@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 28-circular queue using array
 #include <stdio.h>
 #define size 10
 int queue[size], front, rear;
