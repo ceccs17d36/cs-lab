@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 24-infix expression evaluvation
 #include <stdio.h>
 #include <stdlib.h>
 int power(int base, int exponent) {
