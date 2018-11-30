@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 30-deque using linked list
 #include <stdio.h>
 #include <stdlib.h>
 
