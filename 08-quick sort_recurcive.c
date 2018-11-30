@@ -1,3 +1,7 @@
+//N.S ATHUL ANAND
+//S3
+//36
+
 #include<stdio.h>
 void quicksort(int N[25],int first,int last)
 {
