@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 16-polynomial addition 
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
