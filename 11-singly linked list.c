@@ -1,7 +1,7 @@
 // N.S ATHUL ANAND
 // S3D
 // 36
-// 11-singly linkedlist.c
+// 11-singly linked list.c
 #include <stdio.h>
 #include <stdlib.h>
 
