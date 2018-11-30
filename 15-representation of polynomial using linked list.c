@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 15-representation of polynomial using linked list.c
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
