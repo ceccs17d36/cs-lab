@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 14-circular doubly linked list
 #include <stdio.h>
 #include <stdlib.h>
 
