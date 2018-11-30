@@ -1,3 +1,7 @@
+// N.S ATHUL ANAND
+// S3D
+// 36
+// 20-multiple stack using array
 #include <stdio.h>
 #define size 100
 
